@@ -49,7 +49,7 @@ const login = props => {
                     />
                   </View>
                   <View style = {styles.footer}>
-                    <Text style = {styles.welcome}>Welcome H</Text>
+                    <Text style = {styles.welcome}>Welcome</Text>
                       <TextInput
                           style={styles.inputStyle1}
                           onChangeText={userEmail => setUserEmail(userEmail)}
